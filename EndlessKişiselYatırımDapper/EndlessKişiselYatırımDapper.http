@@ -1,0 +1,6 @@
+@EndlessKişiselYatırımDapper_HostAddress = http://localhost:5192
+
+GET {{EndlessKişiselYatırımDapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
