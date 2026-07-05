@@ -1,4 +1,7 @@
-# Kişisel Yatırım ve Portföy Takip Sistemi
+﻿# Kişisel Yatırım ve Portföy Takip Sistemi
+
+![Proje ArayÃ¼zÃ¼](screenshot.jpg)
+
 
 Yatırımlarınızı (hisse senedi, altın, döviz vb.) tek bir platform üzerinden yönetebileceğiniz ve portföy durumunuzu analiz edebileceğiniz kişisel bir finans takip uygulamasıdır.
 
