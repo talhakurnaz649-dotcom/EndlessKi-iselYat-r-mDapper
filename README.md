@@ -1,18 +1,18 @@
-﻿# KiÅŸisel YatÄ±rÄ±m ve PortfÃ¶y Takip Sistemi
+# Kişisel Yatırım ve Portföy Takip Sistemi
 
-YatÄ±rÄ±mlarÄ±nÄ±zÄ± (hisse senedi, altÄ±n, dÃ¶viz vb.) tek bir platform Ã¼zerinden yÃ¶netebileceÄŸiniz ve portfÃ¶y durumunuzu analiz edebileceÄŸiniz kiÅŸisel bir finans takip uygulamasÄ±dÄ±r.
+Yatırımlarınızı (hisse senedi, altın, döviz vb.) tek bir platform üzerinden yönetebileceğiniz ve portföy durumunuzu analiz edebileceğiniz kişisel bir finans takip uygulamasıdır.
 
-## ğŸš€ KullanÄ±lan Teknolojiler
+## 🚀 Kullanılan Teknolojiler
 * **Mimari:** ASP.NET Core MVC (.NET 8/9)
-* **Veri TabanÄ± / ORM:** Dapper ORM & SQL Server (YÃ¼ksek performanslÄ± doÄŸrudan SQL sorgularÄ±)
-* **TasarÄ±m:** HTML5, CSS3, JavaScript, Bootstrap
+* **Veri Tabanı / ORM:** Dapper ORM & SQL Server (Yüksek performanslı doğrudan SQL sorguları)
+* **Tasarım:** HTML5, CSS3, JavaScript, Bootstrap
 
-## âœ¨ Ã–zellikler / YapÄ±
-* DoÄŸrudan SQL sorgularÄ± ile yÃ¼ksek performanslÄ± veri eriÅŸimi.
-* YatÄ±rÄ±m ekleme, silme, gÃ¼ncelleme ve anlÄ±k portfÃ¶y kÃ¢r/zarar hesaplama.
-* MVC yapÄ±sÄ± sayesinde temiz tasarÄ±m ve kullanÄ±cÄ± dostu arayÃ¼z.
+## ✨ Özellikler / Yapı
+* Doğrudan SQL sorguları ile yüksek performanslı veri erişimi.
+* Yatırım ekleme, silme, güncelleme ve anlık portföy kâr/zarar hesaplama.
+* MVC yapısı sayesinde temiz tasarım ve kullanıcı dostu arayüz.
 
-## ğŸ› ï¸ NasÄ±l Ã‡alÄ±ÅŸtÄ±rÄ±lÄ±r?
-1. Projenin veritabanÄ± tablolarÄ±nÄ± oluÅŸturmak iÃ§in gerekli SQL scriptini local veritabanÄ±nÄ±zda Ã§alÄ±ÅŸtÄ±rÄ±n.
-2. `appsettings.json` dosyasÄ±ndaki baÄŸlantÄ± dizesini yerel SQL sunucunuza gÃ¶re ayarlayÄ±n.
-3. Projeyi Visual Studio ile aÃ§Ä±p Ã§alÄ±ÅŸtÄ±rÄ±n.
+## 🛠️ Nasıl Çalıştırılır?
+1. Projenin veritabanı tablolarını oluşturmak için gerekli SQL scriptini local veritabanınızda çalıştırın.
+2. `appsettings.json` dosyasındaki bağlantı dizesini yerel SQL sunucunuza göre ayarlayın.
+3. Projeyi Visual Studio ile açıp çalıştırın.
